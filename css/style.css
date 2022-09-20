@@ -45,6 +45,12 @@ text-align:center;
   margin: 20px;
   padding: 0;
   }
+.hero img{
+  transition: all 15s;
+}
+.hero img:hover{
+  height: 50%;
+}
 nav {
   width: 1080px;
   margin: 0 auto;
